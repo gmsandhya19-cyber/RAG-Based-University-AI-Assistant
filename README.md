@@ -1,4 +1,4 @@
-<img width="1672" height="941" alt="University PDF assistant dashboard" src="https://github.com/user-attachments/assets/688822ff-f271-41e1-8f1c-add40d8109cd" /><img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/98a47535-78e3-4a0e-840b-bd1291398769" />RAG-Based University Assistant Chatbot
+RAG-Based University Assistant Chatbot
 A Python application that answers university-related questions using the contents of an uploaded PDF. The main application uses Streamlit, TF-IDF retrieval, and the Groq Chat Completions API.
 
 This README describes the supplied source code. The main application is University_Assistant.py; the v2/ directory contains a separate Flask/SPARQL prototype that requires additional configuration.
